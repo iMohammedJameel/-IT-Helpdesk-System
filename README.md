@@ -80,6 +80,26 @@ For testing purposes:
 - Email: example@orchida-soft.com
 - Password: (To be configured)
 
+## 👥 Team Members
+
+| Name | Role | Responsibilities |
+|------|------|------------------|
+| **Mohammed Jameel** | **Project Lead & Full Stack Architect** | Login Page, JWT Integration, Admin Dashboard UI, Chart.js, Backend Architecture, DevOps Setup, CI/CD Pipeline |
+| **Mostafa Maged** | Frontend Developer | React Setup, Routing, Protected Routes, Search & Filter UI, Stats Cards |
+| **Androw Ehab** | Backend Developer | Node.js + Express Setup, Ticket CRUD APIs, Status Update APIs, Dashboard Stats API |
+| **Mohammed Ibrahim** | Full Stack Developer | MongoDB Setup, Schemas, Employee Features, Category Filter, Bug Fixes |
+| **Mohammed Hassan** | QA & DevOps | GitHub Setup, Testing, Code Review, Final Delivery |
+
+## 🌿 Branch Strategy
+
+- `main` - Production-ready code (Protected)
+- `mostafa-maged` - Frontend features
+- `androw-ehab` - Backend APIs
+- `mohammed-ibrahim` - Database & Full Stack features
+- `mohammed-hassan` - Testing & Documentation
+
+**Note:** Direct push to `main` is restricted. All changes must go through Pull Requests.
+
 ## 👨‍💻 Author
 
 **Mohammed Jameel**
@@ -89,7 +109,11 @@ For testing purposes:
 
 This project is part of a Capstone project for educational purposes.
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
 
 ---
 
-Made with ❤️ by Mohammed Jameel
+Made with ❤️ by Mohammed Jameel & Team
