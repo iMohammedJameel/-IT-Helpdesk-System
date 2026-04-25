@@ -109,11 +109,6 @@ For testing purposes:
 
 This project is part of a Capstone project for educational purposes.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-
 ---
 
 Made with ❤️ by Mohammed Jameel & Team
